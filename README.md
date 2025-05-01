@@ -1,0 +1,2 @@
+# python_file_exception_assignment
+This is PLP python_file_exception_assignment repo
